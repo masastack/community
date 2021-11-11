@@ -9,7 +9,7 @@ Welcome to the MASA Stack community. This is the starting point for becoming a c
 
 ## Introduction
 
-Coming soon...
+Coming soon
 
 ## MASA Stack authors
 
@@ -29,11 +29,11 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 
 ### MASA Stack blog
 
-Coming soon...
+Coming soon
 
 ## How can I get involved?
 
-Coming soon...
+Coming soon
 
 ## Code of Conduct
 
